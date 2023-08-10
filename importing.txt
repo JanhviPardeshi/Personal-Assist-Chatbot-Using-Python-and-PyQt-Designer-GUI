@@ -1,0 +1,28 @@
+import pyttsx3      #text to speech converter
+import pywhatkit     #send message on Whatsapp
+import pywhatkit as kit  # for open Youtube  videos
+import speech_recognition as sr # to recognize the voice in en-in or hindi
+import datetime  # for current date time 
+import pyjokes # jokes
+import time # 
+import sys
+import tkinter as tk 
+from tkinter import filedialog 
+from pywikihow import search_wikihow, WikiHow
+from ast import Return , Try
+from email.mime import audio
+import requests
+import random
+import wikipedia
+import webbrowser
+import os
+import pyautogui 
+import PyPDF2
+from PyQt5 import QtWidgets, QtCore, QtGui
+from PyQt5.QtCore import QTimer,QTime,QDate,Qt
+from PyQt5.QtGui import QMovie
+from PyQt5.QtCore import *
+from PyQt5.QtGui import *
+from PyQt5.QtWidgets import *
+from PyQt5.uic import loadUiType
+from personalAssistant import Ui_PersonalAssistant_

@@ -1,0 +1,10 @@
+pyttsx3
+pywhatkit
+speechrecognition
+pyjokes
+pywikihow
+wikipedia
+webbrowser
+pyautogui
+PyPDF2
+PyQt5
